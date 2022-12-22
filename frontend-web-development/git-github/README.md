@@ -1,4 +1,4 @@
-# TỔNG QUAN VỀ GIT VÀ GITHUB
+# <img src="./images/overview.png"> TỔNG QUAN VỀ GIT VÀ GITHUB <hr>
 
 ## [Github là gì ?](./docs/github.md)
 
