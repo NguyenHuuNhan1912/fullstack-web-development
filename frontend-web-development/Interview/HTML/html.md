@@ -23,3 +23,7 @@
 * Thuộc tính `httequiv` có các giá trị như `X-UA-Compatible`, `refresh`
     * `<meta http-equiv="X-UA-Compatible" content="IE=edge">`-> Cho phép nhà phát triển web lựa chọn phiên bản của Internet Explorer(IE)
     * `<meta http-equiv="refresh" content="10; url=http://example.com">` -> Cứ 10s trôi qua thì trang web sẽ load lại 1 lần
+
+<hr>
+
+*Made by Nguyen Huu Nhan*
