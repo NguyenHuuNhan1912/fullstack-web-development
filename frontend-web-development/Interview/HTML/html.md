@@ -76,6 +76,12 @@
 * Khi các thẻ này được tạo ra nó sẽ chiếm đủ phần nội dung của thẻ chứ không chiếm hết chiều ngang
 * Các `inline element` -> `img`, `span`,...
 
+## 9. Có gì mới trong HTML 5 ? và tại sao phải dùng HTML 5 ?
+* Các điểm mới của `HTML5` so với các phiên bản `HTML` trước
+    * `<!DOCTYPE> html` -> Chỉ định đây là tài liệu `HTML5`
+    * `header`, `nav`, `footer`, `aside`, `video`, `main`, `canvas` -> Là các thẻ mới được bổ sung vào `HTML5`
+    * `HTML5` không còn thuộc tính `type` trong thẻ `script` và thẻ `link`
+* `HTML5` là phiên bản mới nhất và được hỗ trợ tốt nhất bởi các trình duyệt nếu sử dụng các bản `HTML4` hoặc trước đó một số thẻ sẽ không còn được hỗ trợ gây ảnh hưởng đến trang web của chúng ta
 <hr>
 
 *Made by Nguyen Huu Nhan*
