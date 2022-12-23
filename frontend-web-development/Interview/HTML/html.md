@@ -72,7 +72,7 @@
 * Các `block element` -> `p`, `section`, `article`,...
 
 ### 8.2 `Inline element`
-* Các tag `block element` là các phần tử cấp nội tuyến
+* Các tag `inline element` là các phần tử cấp nội tuyến
 * Khi các thẻ này được tạo ra nó sẽ chiếm đủ phần nội dung của thẻ chứ không chiếm hết chiều ngang
 * Các `inline element` -> `img`, `span`,...
 
