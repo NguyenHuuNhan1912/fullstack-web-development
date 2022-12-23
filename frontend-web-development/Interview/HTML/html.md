@@ -28,7 +28,7 @@
 * Thẻ Iframe là một tài liệu HTML(HTML document) được nhúng vào một trang HTML khác
 * Thẻ Iframe thường được dùng để nhúng website vào website khác hoặc bản đồ định vị, youtube,..
 
-## 3. Thuộc tính alt trong thẻ <img> là gì ?
+## 3. Thuộc tính alt trong thẻ `<img>` là gì ?
 * Thuộc tính alt được tạo ra có 2 mục đích
     * Để hiển thị thông tin hình ảnh trong trường hợp người dùng không xem được ảnh vì các lí do như lỗi đường dẫn hay lỗi hình ảnh
     * Thuộc tính alt cũng để cung cấp thông tin cho hình ảnh, mô tả hình ảnh
