@@ -1,4 +1,4 @@
-# <img src="../vs-code.png" widht="60" height="60"> CÁC PHÍM TẮT THÔNG DỤNG TRONG VISUAL STUDIO CODE <br>
+# <img src="../images/vs-code.png" widht="60" height="60"> CÁC PHÍM TẮT THÔNG DỤNG TRONG VISUAL STUDIO CODE <br>
 
 ## Phím tắt cơ bản 
 * `Ctrl + K + S`: Hiển thị bảng phím tắt của Visual Studio Code
